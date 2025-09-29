@@ -1,0 +1,1 @@
+print('nic i coś')
